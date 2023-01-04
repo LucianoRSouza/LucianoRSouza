@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/118829644/210544693-ebb29b35-f6fa-43f6-b2ef-5ec6a2879411.png)
+![MasterHead](https://user-images.githubusercontent.com/118829644/210544693-ebb29b35-f6fa-43f6-b2ef-5ec6a2879411.png)
 <h1 align="center">Hi 👋, I'm Luciano Souza</h1>
 <h3 align="center">A Python enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118829644/210544445-6e621c08-9210-425e-a153-bb480aab9b98.png"
