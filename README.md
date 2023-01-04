@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm&tbnid=c98_9-zYGce4NM&vet=12ahUKEwiEmfrP3638AhXcUqQEHdqhAVwQMygHegUIARDfAQ..i&docid=x3iYklNU7zjihM&w=626&h=326&q=coding%20banner%20images&ved=2ahUKEwiEmfrP3638AhXcUqQEHdqhAVwQMygHegUIARDfAQ)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Luciano Souza</h1>
 <h3 align="center">A Python enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
