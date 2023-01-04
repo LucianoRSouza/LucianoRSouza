@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/118829644/210544693-ebb29b35-f6fa-43f6-b2ef-5ec6a2879411.png)
+![MasterHead](https://user-images.githubusercontent.com/118829644/210588982-a9bd5565-4cee-443e-9643-01848fb9b1c4.png)
 <h1 align="center">Hi 👋, I'm Luciano Souza</h1>
 <h3 align="center">A Python enthusiast!</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118829644/210544445-6e621c08-9210-425e-a153-bb480aab9b98.png"
+<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/118829644/210589668-d70459e5-5c6e-45d9-904e-8237c3210218.png
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianorsouza&label=Profile%20views&color=0e75b6&style=flat" alt="lucianorsouza" /> </p>
 
